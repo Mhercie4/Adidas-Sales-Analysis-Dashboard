@@ -1,5 +1,5 @@
 # Adidas Sales Analysis (Interactive dashboard creation using MS Excel)
-##Project Objective
+## Project Objective
 The analysis aims to:
 - Measure overall sales and profitability performance during the period.
 - Identify top-performing and underperforming product categories, regions, and sales channels.
