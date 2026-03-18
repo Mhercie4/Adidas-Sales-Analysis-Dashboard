@@ -20,7 +20,7 @@ The analysis aims to:
 - How do Adidas sales compare to projected targets or benchmarks in different markets?
 - What are the top-performing product lines across regions?
 
-- Dashboard Interaction <a href="https://1drv.ms/x/c/C133AD381FA80621/IQCS3_HV47gsRpKCgIMHgzSXAdyObH_pnHySfhyuJfRCswg?e=hFoUwu">View Dashboard</a>
+- Dashboard Interaction <a href="<a href="https://raw.githubusercontent.com/Mhercie4/Mhercie4.github.io/main/assets/Adidas%20Project%201%20Dashboard.png" target="_blank">View Dashboard</a>"
 
 ## Process
 - Verified data for missing values and anomalies, and sort out the same.
@@ -29,7 +29,7 @@ The analysis aims to:
 - Merge all pivot tables in one dashboard and apply slicer to make it dyamic.
 
 ## Dashboard 
-<img width="879" height="363" alt="ADIDAS CAPSTONE PROJECT" src="https://github.com/user-attachments/assets/87fab0db-defa-484c-95ea-a62e687792d1" />
+<img src="https://raw.githubusercontent.com/Mhercie4/Mhercie4.github.io/main/assets/Adidas%20Project%201%20Dashboard.png" width="800">
 
 ## Insights
 Key Findings
