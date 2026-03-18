@@ -20,7 +20,7 @@ The analysis aims to:
 - How do Adidas sales compare to projected targets or benchmarks in different markets?
 - What are the top-performing product lines across regions?
 
-- Dashboard Interaction <a href="<a href="https://raw.githubusercontent.com/Mhercie4/Mhercie4.github.io/main/assets/Adidas%20Project%201%20Dashboard.png" target="_blank">View Dashboard</a>"
+- Dashboard Interaction "<a href="https://raw.githubusercontent.com/Mhercie4/Mhercie4.github.io/main/assets/Adidas%20Project%201%20Dashboard.png" target="_blank">View Dashboard</a>"
 
 ## Process
 - Verified data for missing values and anomalies, and sort out the same.
