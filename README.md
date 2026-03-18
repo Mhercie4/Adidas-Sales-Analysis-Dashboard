@@ -9,6 +9,7 @@ The analysis aims to:
 
 ## Dataset Used
 - <a href="https://docs.google.com/spreadsheets/d/1g7KJp8zNcRXuYfrV1ScNAbkM7n6fX0hR/edit?usp=drive_link&ouid=105468129478881448084&rtpof=true&sd=true">Dataset</a>
+* 🌐 [View Interactive Excel Dashboard](https://1drv.ms/x/c/C133AD381FA80621/IQCCOPebu459Qrcc7icFLqgCAYgyhrruaUK_RY8fj-fNrYw?e=cODOED)
 
 ## Key Business Questions
 - Which Adidas product categories (e.g., footwear, apparel, accessories) generate the highest sales revenue?
